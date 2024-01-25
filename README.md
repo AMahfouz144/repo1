@@ -1,3 +1,3 @@
 # repo1
 ## created by Mahfouz
-#### this the first project 
+#### this is the first project 
